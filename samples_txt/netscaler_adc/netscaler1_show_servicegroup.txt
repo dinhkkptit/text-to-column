@@ -1,0 +1,38 @@
+1)      Pool_44_20 - TCP
+        State: ENABLED  Effective State: DOWN   Monitor Threshold : 0
+        Max Conn: 0     Max Req: 0      Max Bandwidth: 0 kbits
+        Use Source IP: YES              Use Proxy Port: NO
+        Client Keepalive(CKA): NO
+        Monitoring Owner: 0
+        TCP Buffering(TCPB): NO
+        HTTP Compression(CMP): NO
+        Idle timeout: Client: 600 sec   Server: 600 sec
+        Client IP: DISABLED
+        Cacheable: NO
+        SC: ???
+        SP: OFF
+        Down state flush: ENABLED
+        Monitor Connection Close : NONE
+        Appflow logging: DISABLED
+        ContentInspection profile name: ???
+        Process Local: DISABLED
+        Traffic Domain: 0
+2)      Pool_44_21 - TCP
+        State: ENABLED  Effective State: DOWN   Monitor Threshold : 0
+        Max Conn: 0     Max Req: 0      Max Bandwidth: 0 kbits
+        Use Source IP: YES              Use Proxy Port: NO
+        Client Keepalive(CKA): NO
+        Monitoring Owner: 0
+        TCP Buffering(TCPB): NO
+        HTTP Compression(CMP): NO
+        Idle timeout: Client: 600 sec   Server: 600 sec
+        Client IP: DISABLED
+        Cacheable: NO
+        SC: ???
+        SP: OFF
+        Down state flush: ENABLED
+        Monitor Connection Close : NONE
+        Appflow logging: DISABLED
+        ContentInspection profile name: ???
+        Process Local: DISABLED
+        Traffic Domain: 0
