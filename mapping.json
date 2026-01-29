@@ -204,35 +204,19 @@
     "show version all": "checkpoint_gaia_show_version_all.textfsm",
     "show virtual-system all": "checkpoint_gaia_show_virtual-system_all.textfsm"
   },
-  "ciena_saos_chassis": {
-    "show temperature": "ciena_saos_chassis_show_temperature.textfsm"
-  },
-  "ciena_saos_lldp": {
-    "show neighbors": "ciena_saos_lldp_show_neighbors.textfsm"
-  },
-  "ciena_saos_port": {
-    "show": "ciena_saos_port_show.textfsm",
-    "show ethernet-config": "ciena_saos_port_show_ethernet-config.textfsm",
-    "show network-config": "ciena_saos_port_show_network-config.textfsm",
-    "show status": "ciena_saos_port_show_status.textfsm"
-  },
-  "ciena_saos_port_xcvr": {
-    "show": "ciena_saos_port_xcvr_show.textfsm"
-  },
-  "ciena_saos_rstp": {
-    "show": "ciena_saos_rstp_show.textfsm"
-  },
-  "ciena_saos_software": {
-    "show": "ciena_saos_software_show.textfsm"
-  },
-  "ciena_saos_ssh_server": {
-    "show key": "ciena_saos_ssh_server_show_key.textfsm"
-  },
-  "ciena_saos_traffic-profiling_standard-profile": {
-    "show": "ciena_saos_traffic-profiling_standard-profile_show.textfsm"
-  },
-  "ciena_saos_vlan": {
-    "show": "ciena_saos_vlan_show.textfsm"
+  "ciena_saos": {
+    "chassis_show temperature": "ciena_saos_chassis_show_temperature.textfsm",
+    "lldp_show neighbors": "ciena_saos_lldp_show_neighbors.textfsm",
+    "port_show": "ciena_saos_port_show.textfsm",
+    "port_show ethernet-config": "ciena_saos_port_show_ethernet-config.textfsm",
+    "port_show network-config": "ciena_saos_port_show_network-config.textfsm",
+    "port_show status": "ciena_saos_port_show_status.textfsm",
+    "port_xcvr_show": "ciena_saos_port_xcvr_show.textfsm",
+    "rstp_show": "ciena_saos_rstp_show.textfsm",
+    "software_show": "ciena_saos_software_show.textfsm",
+    "ssh_server_show key": "ciena_saos_ssh_server_show_key.textfsm",
+    "traffic-profiling_standard-profile_show": "ciena_saos_traffic-profiling_standard-profile_show.textfsm",
+    "vlan_show": "ciena_saos_vlan_show.textfsm"
   },
   "cisco_apic_fabric": {
     "show vlan extended": "cisco_apic_fabric_show_vlan_extended.textfsm"
