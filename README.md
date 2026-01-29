@@ -80,7 +80,7 @@ Used for platform aliasing.
 {
   "platform_aliases": {
     "netscaler_adc": "citrix_adc",
-    "cisco_nxos": "cisco_ios"
+    "ios": "cisco_ios"
   }
 }
 ```
