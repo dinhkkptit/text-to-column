@@ -1,0 +1,265 @@
+Defined configuration:
+ cfg:   TESTsan11
+                TESTBK11_H3_P28_TESTVTL11_C_P36; TESTBK12_H3_P29_TESTVTL11_C_P36;
+                TESTESX11_H1_P0_TESTSTG02_1A_P12;
+                TESTESX11_H1_P0_TESTSTG02_3A_P13;
+                TESTESX11_H1_P0_TESTSTG11_614924_1A_P4;
+                TESTESX11_H1_P0_TESTSTG11_614924_3A_P5;
+                TESTESX12_H1_P1_TESTSTG02_1A_P12;
+                TESTESX12_H1_P1_TESTSTG02_3A_P13;
+                TESTESX12_H1_P1_TESTSTG11_614924_1A_P4;
+                TESTESX12_H1_P1_TESTSTG11_614924_3A_P5;
+                TESTESX13_H1_P2_TESTSTG02_1A_P12;
+                TESTESX13_H1_P2_TESTSTG02_3A_P13;
+                TESTESX13_H1_P2_TESTSTG11_614924_1A_P4;
+                TESTESX13_H1_P2_TESTSTG11_614924_3A_P5;
+                TESTESX14_H1_P3_TESTSTG02_1A_P12;
+                TESTESX14_H1_P3_TESTSTG02_3A_P13;
+                TESTESX14_H1_P3_TESTSTG11_614924_1A_P4;
+                TESTESX14_H1_P3_TESTSTG11_614924_3A_P5;
+                TESTESX15_H1_P8_TESTSTG02_1A_P12;
+                TESTESX15_H1_P8_TESTSTG02_3A_P13;
+                TESTESX15_H1_P8_TESTSTG11_614924_1A_P4;
+                TESTESX15_H1_P8_TESTSTG11_614924_3A_P5;
+                TESTESX16_H1_P9_TESTSTG02_1A_P12;
+                TESTESX16_H1_P9_TESTSTG02_3A_P13;
+                TESTESX16_H1_P9_TESTSTG11_614924_1A_P4;
+                TESTESX16_H1_P9_TESTSTG11_614924_3A_P5;
+                TESTESX17_H1_P10_TESTSTG02_1A_P12;
+                TESTESX17_H1_P10_TESTSTG02_3A_P13;
+                TESTESX17_H1_P10_TESTSTG11_614924_1A_P4;
+                TESTESX17_H1_P10_TESTSTG11_614924_3A_P5;
+                TESTLOCESX11_H1_P40_TESTLOCSTG11_1A_P44;
+                TESTLOCESX11_H1_P40_TESTLOCSTG11_3A_P45;
+                TESTLOCESX12_H1_P41_TESTLOCSTG11_1A_P44;
+                TESTLOCESX12_H1_P41_TESTLOCSTG11_3A_P45;
+                TESTLOCESX13_H1_P42_TESTLOCSTG11_1A_P44;
+                TESTLOCESX13_H1_P42_TESTLOCSTG11_3A_P45
+ zone:  TESTBK11_H3_P28_TESTVTL11_C_P36
+                TESTBK11_H3_P28; TESTVTL11_C_P36
+ zone:  TESTBK12_H3_P29_TESTVTL11_C_P36
+                TESTBK12_H3_P29; TESTVTL11_C_P36
+ zone:  TESTESX11_H1_P0_TESTSTG02_1A_P12
+                TESTESX11_H1_P0; TESTSTG02_1A_P12
+ zone:  TESTESX11_H1_P0_TESTSTG02_3A_P13
+                TESTESX11_H1_P0; TESTSTG02_3A_P13
+ zone:  TESTESX11_H1_P0_TESTSTG11_614924_1A_P4
+                TESTESX11_H1_P0; TESTSTG11_614924_1A_P4
+ zone:  TESTESX11_H1_P0_TESTSTG11_614924_3A_P5
+                TESTESX11_H1_P0; TESTSTG11_614924_3A_P5
+ zone:  TESTESX12_H1_P1_TESTSTG02_1A_P12
+                TESTESX12_H1_P1; TESTSTG02_1A_P12
+ zone:  TESTESX12_H1_P1_TESTSTG02_3A_P13
+                TESTESX12_H1_P1; TESTSTG02_3A_P13
+ zone:  TESTESX12_H1_P1_TESTSTG11_614924_1A_P4
+                TESTESX12_H1_P1; TESTSTG11_614924_1A_P4
+ zone:  TESTESX12_H1_P1_TESTSTG11_614924_3A_P5
+                TESTESX12_H1_P1; TESTSTG11_614924_3A_P5
+ zone:  TESTESX13_H1_P2_TESTSTG02_1A_P12
+                TESTESX13_H1_P2; TESTSTG02_1A_P12
+ zone:  TESTESX13_H1_P2_TESTSTG02_3A_P13
+                TESTESX13_H1_P2; TESTSTG02_3A_P13
+ zone:  TESTESX13_H1_P2_TESTSTG11_614924_1A_P4
+                TESTESX13_H1_P2; TESTSTG11_614924_1A_P4
+ zone:  TESTESX13_H1_P2_TESTSTG11_614924_3A_P5
+                TESTESX13_H1_P2; TESTSTG11_614924_3A_P5
+ zone:  TESTESX14_H1_P3_TESTSTG02_1A_P12
+                TESTESX14_H1_P3; TESTSTG02_1A_P12
+ zone:  TESTESX14_H1_P3_TESTSTG02_3A_P13
+                TESTESX14_H1_P3; TESTSTG02_3A_P13
+ zone:  TESTESX14_H1_P3_TESTSTG11_614924_1A_P4
+                TESTESX14_H1_P3; TESTSTG11_614924_1A_P4
+ zone:  TESTESX14_H1_P3_TESTSTG11_614924_3A_P5
+                TESTESX14_H1_P3; TESTSTG11_614924_3A_P5
+ zone:  TESTESX15_H1_P8_TESTSTG02_1A_P12
+                TESTESX15_H1_P8; TESTSTG02_1A_P12
+ zone:  TESTESX15_H1_P8_TESTSTG02_3A_P13
+                TESTESX15_H1_P8; TESTSTG02_3A_P13
+ zone:  TESTESX15_H1_P8_TESTSTG11_614924_1A_P4
+                TESTESX15_H1_P8; TESTSTG11_614924_1A_P4
+ zone:  TESTESX15_H1_P8_TESTSTG11_614924_3A_P5
+                TESTESX15_H1_P8; TESTSTG11_614924_3A_P5
+ zone:  TESTESX16_H1_P9_TESTSTG02_1A_P12
+                TESTESX16_H1_P9; TESTSTG02_1A_P12
+ zone:  TESTESX16_H1_P9_TESTSTG02_3A_P13
+                TESTESX16_H1_P9; TESTSTG02_3A_P13
+ zone:  TESTESX16_H1_P9_TESTSTG11_614924_1A_P4
+                TESTESX16_H1_P9; TESTSTG11_614924_1A_P4
+ zone:  TESTESX16_H1_P9_TESTSTG11_614924_3A_P5
+                TESTESX16_H1_P9; TESTSTG11_614924_3A_P5
+ zone:  TESTESX17_H1_P10_TESTSTG02_1A_P12
+                TESTESX17_H1_P10; TESTSTG02_1A_P12
+ zone:  TESTESX17_H1_P10_TESTSTG02_3A_P13
+                TESTESX17_H1_P10; TESTSTG02_3A_P13
+ zone:  TESTESX17_H1_P10_TESTSTG11_614924_1A_P4
+                TESTESX17_H1_P10; TESTSTG11_614924_1A_P4
+ zone:  TESTESX17_H1_P10_TESTSTG11_614924_3A_P5
+                TESTESX17_H1_P10; TESTSTG11_614924_3A_P5
+ zone:  TESTLOCESX11_H1_P40_TESTLOCSTG11_1A_P44
+                TESTLOCESX11_H1_P40; TESTLOCSTG11_1A_P44
+ zone:  TESTLOCESX11_H1_P40_TESTLOCSTG11_3A_P45
+                TESTLOCESX11_H1_P40; TESTLOCSTG11_3A_P45
+ zone:  TESTLOCESX12_H1_P41_TESTLOCSTG11_1A_P44
+                TESTLOCESX12_H1_P41; TESTLOCSTG11_1A_P44
+ zone:  TESTLOCESX12_H1_P41_TESTLOCSTG11_3A_P45
+                TESTLOCESX12_H1_P41; TESTLOCSTG11_3A_P45
+ zone:  TESTLOCESX13_H1_P42_TESTLOCSTG11_1A_P44
+                TESTLOCESX13_H1_P42; TESTLOCSTG11_1A_P44
+ zone:  TESTLOCESX13_H1_P42_TESTLOCSTG11_3A_P45
+                TESTLOCESX13_H1_P42; TESTLOCSTG11_3A_P45
+ alias: TESTBK11_H3_P28
+                1,28
+ alias: TESTBK12_H3_P29
+                1,29
+ alias: TESTESX02_H1_P9
+                1,9
+ alias: TESTESX11_H1_P0
+                1,0
+ alias: TESTESX12_H1_P1
+                1,1
+ alias: TESTESX13_H1_P2
+                1,2
+ alias: TESTESX14_H1_P3
+                1,3
+ alias: TESTESX15_H1_P8
+                1,8
+ alias: TESTESX16_H1_P9
+                1,9
+ alias: TESTESX17_H1_P10
+                1,10
+ alias: TESTSTG02_1A_P12
+                1,12
+ alias: TESTSTG02_3A_P13
+                1,13
+ alias: TESTSTG11_614924_1A_P4
+                1,4
+ alias: TESTSTG11_614924_3A_P5
+                1,5
+ alias: TESTLOCESX11_H1_P40
+                1,40
+ alias: TESTLOCESX12_H1_P41
+                1,41
+ alias: TESTLOCESX13_H1_P42
+                1,42
+ alias: TESTLOCSTG11_1A_P44
+                1,44
+ alias: TESTLOCSTG11_3A_P45
+                1,45
+ alias: TESTVTL11_C_P36
+                1,36
+
+Effective configuration:
+ cfg:   TESTsan11
+ zone:  TESTBK11_H3_P28_TESTVTL11_C_P36
+                1,28
+                1,36
+ zone:  TESTBK12_H3_P29_TESTVTL11_C_P36
+                1,29
+                1,36
+ zone:  TESTESX02_H1_P9_TESTSTG11_614924_1A_P4
+                1,9
+                1,4
+ zone:  TESTESX02_H1_P9_TESTSTG11_614924_3A_P5
+                1,9
+                1,5
+ zone:  TESTESX11_H1_P0_TESTSTG02_1A_P12
+                1,0
+                1,12
+ zone:  TESTESX11_H1_P0_TESTSTG02_3A_P13
+                1,0
+                1,13
+ zone:  TESTESX11_H1_P0_TESTSTG11_614924_1A_P4
+                1,0
+                1,4
+ zone:  TESTESX11_H1_P0_TESTSTG11_614924_3A_P5
+                1,0
+                1,5
+ zone:  TESTESX12_H1_P1_TESTSTG02_1A_P12
+                1,1
+                1,12
+ zone:  TESTESX12_H1_P1_TESTSTG02_3A_P13
+                1,1
+                1,13
+ zone:  TESTESX12_H1_P1_TESTSTG11_614924_1A_P4
+                1,1
+                1,4
+ zone:  TESTESX12_H1_P1_TESTSTG11_614924_3A_P5
+                1,1
+                1,5
+ zone:  TESTESX13_H1_P2_TESTSTG02_1A_P12
+                1,2
+                1,12
+ zone:  TESTESX13_H1_P2_TESTSTG02_3A_P13
+                1,2
+                1,13
+ zone:  TESTESX13_H1_P2_TESTSTG11_614924_1A_P4
+                1,2
+                1,4
+ zone:  TESTESX13_H1_P2_TESTSTG11_614924_3A_P5
+                1,2
+                1,5
+ zone:  TESTESX14_H1_P3_TESTSTG02_1A_P12
+                1,3
+                1,12
+ zone:  TESTESX14_H1_P3_TESTSTG02_3A_P13
+                1,3
+                1,13
+ zone:  TESTESX14_H1_P3_TESTSTG11_614924_1A_P4
+                1,3
+                1,4
+ zone:  TESTESX14_H1_P3_TESTSTG11_614924_3A_P5
+                1,3
+                1,5
+ zone:  TESTESX15_H1_P8_TESTSTG02_1A_P12
+                1,8
+                1,12
+ zone:  TESTESX15_H1_P8_TESTSTG02_3A_P13
+                1,8
+                1,13
+ zone:  TESTESX15_H1_P8_TESTSTG11_614924_1A_P4
+                1,8
+                1,4
+ zone:  TESTESX15_H1_P8_TESTSTG11_614924_3A_P5
+                1,8
+                1,5
+ zone:  TESTESX16_H1_P9_TESTSTG02_1A_P12
+                1,9
+                1,12
+ zone:  TESTESX16_H1_P9_TESTSTG02_3A_P13
+                1,9
+                1,13
+ zone:  TESTESX16_H1_P9_TESTSTG11_614924_1A_P4
+                1,9
+                1,4
+ zone:  TESTESX16_H1_P9_TESTSTG11_614924_3A_P5
+                1,9
+                1,5
+ zone:  TESTESX17_H1_P10_TESTSTG02_1A_P12
+                1,10
+                1,12
+ zone:  TESTESX17_H1_P10_TESTSTG02_3A_P13
+                1,10
+                1,13
+ zone:  TESTESX17_H1_P10_TESTSTG11_614924_1A_P4
+                1,10
+                1,4
+ zone:  TESTESX17_H1_P10_TESTSTG11_614924_3A_P5
+                1,10
+                1,5
+ zone:  TESTLOCESX11_H1_P40_TESTLOCSTG11_1A_P44
+                1,40
+                1,44
+ zone:  TESTLOCESX11_H1_P40_TESTLOCSTG11_3A_P45
+                1,40
+                1,45
+ zone:  TESTLOCESX12_H1_P41_TESTLOCSTG11_1A_P44
+                1,41
+                1,44
+ zone:  TESTLOCESX12_H1_P41_TESTLOCSTG11_3A_P45
+                1,41
+                1,45
+ zone:  TESTLOCESX13_H1_P42_TESTLOCSTG11_1A_P44
+                1,42
+                1,44
+ zone:  TESTLOCESX13_H1_P42_TESTLOCSTG11_3A_P45
+                1,42		

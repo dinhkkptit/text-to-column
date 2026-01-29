@@ -3,6 +3,10 @@
     "show lb vserver": "citrix_adc_show_lb_vserver.textfsm",
     "show servicegroup": "citrix_adc_show_servicegroup.textfsm"
   },  
+  "brocade_fos": {
+    "zoneshow": "brocade_fos_zoneshow.textfsm",
+    "switchshow": "brocade_fos_switchshow.textfsm"
+  },   
   "alcatel_aos": {
     "show chassis": "alcatel_aos_show_chassis.textfsm",
     "show interfaces alias": "alcatel_aos_show_interfaces_alias.textfsm",

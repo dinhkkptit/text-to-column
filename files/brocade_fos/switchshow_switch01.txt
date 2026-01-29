@@ -1,0 +1,66 @@
+Index Port Address  Media Speed   State       Proto
+==================================================
+   0   0   010000   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:19:36
+   1   1   010100   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:19:8e
+   2   2   010200   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:19:6c
+   3   3   010300   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:19:18
+   4   4   010400   id    N32     Online      FC  F-Port  50:06:0e:80:21:3a:4c:00
+   5   5   010500   id    N32     Online      FC  F-Port  50:06:0e:80:21:3a:4c:20
+   6   6   010600   id    N32     No_Light    FC
+   7   7   010700   id    N32     No_Light    FC
+   8   8   010800   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:19:12
+   9   9   010900   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a1:a4:72
+  10  10   010a00   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a1:a4:84
+  11  11   010b00   id    N32     No_Light    FC
+  12  12   010c00   id    N32     Online      FC  F-Port  1 N Port + 1 NPIV public
+  13  13   010d00   id    N32     Online      FC  F-Port  1 N Port + 1 NPIV public
+  14  14   010e00   id    N32     No_Light    FC
+  15  15   010f00   id    N32     No_Light    FC
+  16  16   011000   id    N32     No_Light    FC
+  17  17   011100   id    N32     No_Light    FC
+  18  18   011200   id    N32     No_Light    FC
+  19  19   011300   id    N32     No_Light    FC
+  20  20   011400   id    N32     No_Light    FC
+  21  21   011500   id    N32     No_Light    FC
+  22  22   011600   id    N32     No_Light    FC
+  23  23   011700   id    N32     No_Light    FC
+  24  24   011800   id    N32     No_Light    FC
+  25  25   011900   id    N32     No_Light    FC
+  26  26   011a00   id    N32     No_Light    FC
+  27  27   011b00   id    N32     No_Light    FC
+  28  28   011c00   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:16:db
+  29  29   011d00   id    N16     Online      FC  F-Port  21:00:f4:c7:aa:a0:16:d3
+  30  30   011e00   id    N32     No_Light    FC
+  31  31   011f00   id    N32     No_Light    FC
+  32  32   012000   id    N32     No_Light    FC
+  33  33   012100   id    N32     No_Light    FC
+  34  34   012200   id    N32     No_Light    FC
+  35  35   012300   id    N32     No_Light    FC
+  36  36   012400   id    N32     Online      FC  F-Port  50:02:18:83:62:21:04:ce
+  37  37   012500   id    N32     No_Light    FC
+  38  38   012600   id    N32     No_Light    FC
+  39  39   012700   id    N32     No_Light    FC
+  40  40   012800   id    N16     Online      FC  F-Port  21:00:00:24:ff:18:2b:45
+  41  41   012900   id    N16     Online      FC  F-Port  21:00:00:24:ff:18:2b:49
+  42  42   012a00   id    N16     Online      FC  F-Port  21:00:00:24:ff:18:d5:c5
+  43  43   012b00   id    N32     No_Light    FC
+  44  44   012c00   id    N32     Online      FC  F-Port  50:06:0e:80:28:29:cb:00
+  45  45   012d00   id    N32     Online      FC  F-Port  50:06:0e:80:28:29:cb:20
+  46  46   012e00   id    N32     No_Light    FC
+  47  47   012f00   id    N32     No_Light    FC
+  48  48   013000   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  49  49   013100   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  50  50   013200   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  51  51   013300   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  52  52   013400   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  53  53   013500   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  54  54   013600   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  55  55   013700   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  56  56   013800   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  57  57   013900   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  58  58   013a00   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  59  59   013b00   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  60  60   013c00   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  61  61   013d00   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  62  62   013e00   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
+  63  63   013f00   --    N64     No_Module   FC  (No Ports on Demand license) Disabled
