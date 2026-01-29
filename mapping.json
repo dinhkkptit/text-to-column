@@ -302,6 +302,7 @@
     "show boot": "cisco_ios_show_boot.textfsm",
     "show capability feature routing": "cisco_ios_show_capability_feature_routing.textfsm",
     "show cdp neighbors": "cisco_ios_show_cdp_neighbors.textfsm",
+	"showcdpneighbors": "cisco_ios_show_cdp_neighbors.textfsm",
     "show cdp neighbors detail": "cisco_ios_show_cdp_neighbors_detail.textfsm",
     "show clock": "cisco_ios_show_clock.textfsm",
     "show controller t1": "cisco_ios_show_controller_t1.textfsm",
@@ -703,20 +704,14 @@
     "get system ha status": "fortinet_get_system_ha_status.textfsm",
     "get system interface": "fortinet_get_system_interface.textfsm",
     "get system interface physical": "fortinet_get_system_interface_physical.textfsm",
-    "get system status": "fortinet_get_system_status.textfsm"
-  },
-  "fortinet_execute": {
-    "date": "fortinet_execute_date.textfsm",
-    "dhcp lease-list": "fortinet_execute_dhcp_lease-list.textfsm",
-    "ping": "fortinet_execute_ping.textfsm",
-    "time": "fortinet_execute_time.textfsm",
-    "traceroute": "fortinet_execute_traceroute.textfsm"
-  },
-  "fortinet_execute_log": {
-    "display": "fortinet_execute_log_display.textfsm"
-  },
-  "fortinet_fnsysctl": {
-    "ifconfig": "fortinet_fnsysctl_ifconfig.textfsm"
+    "get system status": "fortinet_get_system_status.textfsm",
+    "execute_date": "fortinet_execute_date.textfsm",
+    "execute_dhcp lease-list": "fortinet_execute_dhcp_lease-list.textfsm",
+    "execute_ping": "fortinet_execute_ping.textfsm",
+    "execute_time": "fortinet_execute_time.textfsm",
+    "execute_traceroute": "fortinet_execute_traceroute.textfsm",
+    "execute_log_display": "fortinet_execute_log_display.textfsm",
+    "fnsysctl_ifconfig": "fortinet_fnsysctl_ifconfig.textfsm"
   },
   "fsas_sir": {
     "show ether": "fsas_sir_show_ether.textfsm",
@@ -895,54 +890,26 @@
   "juniper_screenos": {
     "get route": "juniper_screenos_get_route.textfsm"
   },
-  "linux_arp": {
-    "-a": "linux_arp_-a.textfsm"
-  },
-  "linux_bluetoothctl": {
-    "show": "linux_bluetoothctl_show.textfsm"
-  },
-  "linux_dmidecode": {
-    "-t bios": "linux_dmidecode_-t_bios.textfsm",
-    "-t memory": "linux_dmidecode_-t_memory.textfsm",
-    "-t processor": "linux_dmidecode_-t_processor.textfsm",
-    "-t system": "linux_dmidecode_-t_system.textfsm"
-  },
-  "linux_ip_address": {
-    "show": "linux_ip_address_show.textfsm"
-  },
-  "linux_ip_link": {
-    "show": "linux_ip_link_show.textfsm"
-  },
-  "linux_ip_route": {
-    "show": "linux_ip_route_show.textfsm"
-  },
-  "linux_ip_vrf": {
-    "show": "linux_ip_vrf_show.textfsm"
-  },
-  "linux_iwconfig": {
-    "iwconfig": "linux_iwconfig.textfsm"
-  },
-  "linux_iwlist": {
-    "wlan0 scanning": "linux_iwlist_wlan0_scanning.textfsm"
-  },
-  "linux_nmcli_connection": {
-    "show": "linux_nmcli_connection_show.textfsm"
-  },
-  "linux_pct": {
-    "config 1": "linux_pct_config_1.textfsm",
-    "list": "linux_pct_list.textfsm"
-  },
-  "linux_pveversion": {
-    "pveversion": "linux_pveversion.textfsm"
-  },
-  "linux_qm": {
-    "config 1": "linux_qm_config_1.textfsm",
-    "list": "linux_qm_list.textfsm"
-  },
-  "linux_top": {
-    "top": "linux_top.textfsm"
-  },
-  "linux_vzlist": {
+  "linux": {
+    "arp -a": "linux_arp_-a.textfsm",
+    "bluetoothctl show": "linux_bluetoothctl_show.textfsm",
+    "dmidecode -t bios": "linux_dmidecode_-t_bios.textfsm",
+    "dmidecode -t memory": "linux_dmidecode_-t_memory.textfsm",
+    "dmidecode -t processor": "linux_dmidecode_-t_processor.textfsm",
+    "dmidecode -t system": "linux_dmidecode_-t_system.textfsm",
+    "ip address show": "linux_ip_address_show.textfsm",
+    "ip link show": "linux_ip_link_show.textfsm",
+    "ip route show": "linux_ip_route_show.textfsm",
+    "ip vrf show": "linux_ip_vrf_show.textfsm",
+    "iwconfig": "linux_iwconfig.textfsm",
+    "iwlist wlan0 scanning": "linux_iwlist_wlan0_scanning.textfsm",
+    "nmcli connection show": "linux_nmcli_connection_show.textfsm",
+    "pct config 1": "linux_pct_config_1.textfsm",
+    "pct list": "linux_pct_list.textfsm",
+    "pveversion": "linux_pveversion.textfsm",
+    "qm config 1": "linux_qm_config_1.textfsm",
+    "qm list": "linux_qm_list.textfsm",
+    "top": "linux_top.textfsm",
     "vzlist": "linux_vzlist.textfsm"
   },
   "mikrotik_routeros": {
@@ -1116,40 +1083,18 @@
   },
   "zyxel_os": {
     "sys atsh": "zyxel_os_sys_atsh.textfsm",
-    "zycli Ethctl media-type": "zyxel_os_zycli_Ethctl_media-type.textfsm"
-  },
-  "zyxel_os_cfg_firewall_acl": {
-    "get": "zyxel_os_cfg_firewall_acl_get.textfsm"
-  },
-  "zyxel_os_cfg_intf_group": {
-    "get": "zyxel_os_cfg_intf_group_get.textfsm"
-  },
-  "zyxel_os_cfg_ipalias": {
-    "get": "zyxel_os_cfg_ipalias_get.textfsm"
-  },
-  "zyxel_os_cfg_lan": {
-    "get": "zyxel_os_cfg_lan_get.textfsm",
-    "get --Name name": "zyxel_os_cfg_lan_get_--Name_name.textfsm"
-  },
-  "zyxel_os_cfg_lanhosts": {
-    "get": "zyxel_os_cfg_lanhosts_get.textfsm"
-  },
-  "zyxel_os_cfg_nat": {
-    "get": "zyxel_os_cfg_nat_get.textfsm"
-  },
-  "zyxel_os_cfg_nat_addr_map": {
-    "get": "zyxel_os_cfg_nat_addr_map_get.textfsm"
-  },
-  "zyxel_os_cfg_snmp": {
-    "get": "zyxel_os_cfg_snmp_get.textfsm"
-  },
-  "zyxel_os_cfg_static_dhcp": {
-    "get": "zyxel_os_cfg_static_dhcp_get.textfsm"
-  },
-  "zyxel_os_cfg_static_route": {
-    "get": "zyxel_os_cfg_static_route_get.textfsm"
-  },
-  "zyxel_os_cfg_wlan": {
-    "get": "zyxel_os_cfg_wlan_get.textfsm"
-  }
+    "zycli Ethctl media-type": "zyxel_os_zycli_Ethctl_media-type.textfsm",
+    "cfg firewall acl get": "zyxel_os_cfg_firewall_acl_get.textfsm",
+    "cfg intf group get": "zyxel_os_cfg_intf_group_get.textfsm",
+    "cfg ipalias get": "zyxel_os_cfg_ipalias_get.textfsm",
+    "cfg lan get": "zyxel_os_cfg_lan_get.textfsm",
+    "cfg lan get --name name": "zyxel_os_cfg_lan_get_--Name_name.textfsm",
+    "cfg lanhosts get": "zyxel_os_cfg_lanhosts_get.textfsm",
+    "cfg nat get": "zyxel_os_cfg_nat_get.textfsm",
+    "cfg nat addr map get": "zyxel_os_cfg_nat_addr_map_get.textfsm",
+    "cfg snmp get": "zyxel_os_cfg_snmp_get.textfsm",
+    "cfg static dhcp get": "zyxel_os_cfg_static_dhcp_get.textfsm",
+    "cfg static route get": "zyxel_os_cfg_static_route_get.textfsm",
+    "cfg wlan get": "zyxel_os_cfg_wlan_get.textfsm"
+ }
 }
