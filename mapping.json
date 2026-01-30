@@ -616,15 +616,13 @@
     "show running-config hostname": "cisco_xr_show_running-config_hostname.textfsm",
     "show version": "cisco_xr_show_version.textfsm",
     "show version brief": "cisco_xr_show_version_brief.textfsm",
-    "show vrf all detail": "cisco_xr_show_vrf_all_detail.textfsm"
-  },
-  "cisco_xr_admin": {
-    "show controller fabric health": "cisco_xr_admin_show_controller_fabric_health.textfsm",
-    "show environment fan": "cisco_xr_admin_show_environment_fan.textfsm",
-    "show environment power": "cisco_xr_admin_show_environment_power.textfsm",
-    "show inventory": "cisco_xr_admin_show_inventory.textfsm",
-    "show platform": "cisco_xr_admin_show_platform.textfsm",
-    "show vm": "cisco_xr_admin_show_vm.textfsm"
+    "show vrf all detail": "cisco_xr_show_vrf_all_detail.textfsm",
+    "admin show controller fabric health": "cisco_xr_admin_show_controller_fabric_health.textfsm",
+    "admin show environment fan": "cisco_xr_admin_show_environment_fan.textfsm",
+    "admin show environment power": "cisco_xr_admin_show_environment_power.textfsm",
+    "admin show inventory": "cisco_xr_admin_show_inventory.textfsm",
+    "admin show platform": "cisco_xr_admin_show_platform.textfsm",
+    "admin show vm": "cisco_xr_admin_show_vm.textfsm"
   },
   "dell_force10": {
     "show arp": "dell_force10_show_arp.textfsm",
